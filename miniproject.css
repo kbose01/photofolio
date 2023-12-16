@@ -1,0 +1,89 @@
+body
+{
+background-color:black;
+}
+.ab
+{
+	color:white;
+	text-align:center;
+}
+   .a
+	{
+	color:white;
+	text-align:center;
+	}
+	.b
+	{
+	color:white;
+	text-align:center;
+	}
+	body
+	{
+	background-color:black;
+	}
+	.c
+	{
+	text-align:center;
+	}
+	.d
+	{
+	color: #27A776;
+	}
+	.e
+	{
+	color:white;
+	}
+	.f
+	{
+	color:white;
+	}
+	.g
+	{
+	color:white;
+	}
+	.h
+	{
+	color:white;
+	text-align:center;
+	}
+	.i
+	{
+	height:30px;
+	width:450px;
+	}
+	
+.container-fluid .row .img-rounded:hover {
+	color: #fff;
+  transform: rotate(360deg);
+  transition: .5s;
+ 
+   
+}
+
+
+form
+{
+	position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50%;
+	text-align:center;
+	border:solid 1px;
+	border-color:white;
+	height:250px;
+	width:400px;
+}
+b
+{
+	color:white;
+}
+
+.frm
+{
+	background-image:url("https://tasbihdigital.com/wp-content/uploads/2022/11/Black-Backgrounds-HD.jpg");
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+	
+	
